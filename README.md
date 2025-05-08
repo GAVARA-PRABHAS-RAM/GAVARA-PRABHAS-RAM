@@ -2,10 +2,10 @@
 
 <table><tr><td valign="top" width="56%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lohith1511&theme=blue-green&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=GAVARA-PRABHAS-RAM&theme=blue-green&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith1511&theme=blue-green&hide_border=true&layout=compact" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAVARA-PRABHAS-RAM&theme=blue-green&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
 
